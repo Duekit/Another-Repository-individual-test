@@ -1,5 +1,5 @@
 # Another Repository individual test
-## By Devin
+## By Devin _©_
 ###### Markdown Practice
 
 _Everything is **Working** right_
