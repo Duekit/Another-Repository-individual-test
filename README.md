@@ -13,4 +13,3 @@ _Everything is **Working** right_
 # 2020
 > **Learning Github**
 > *Github Practice*
-__ checking if i remember pull request__
